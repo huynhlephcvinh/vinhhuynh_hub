@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinh Huynh</h1>
 <h3 align="center">A passionate BackEnd developer from FPTU</h3>
 
-- 🌱 I’m currently learning **ReactJS, Spring Boot, .NET**
+- 🌱 I’m currently learning **Spring Boot, .NET, ReactJS**
 
 - 📫 How to reach me **phucvinh710@gmail.com**
 
